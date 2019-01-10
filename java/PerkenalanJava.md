@@ -10,22 +10,22 @@ Saat ini Java dibagi menjadi 3 framework atau teknologi yaitu J2SE untuk pemogra
 
 # Komponen-komponen Dalam Java
 
-1. JDK *(Java Development Kit)* 
-    Adalah sebuah software yang biasa digunakan untuk membuat aplikasi Java. Salah satu fungsi JDK yaitu untuk melakukan compiling baris kode yang telah kita tulis untuk dijalankan. Adapun fungsi lain JDK selain compiler diantaranya :
+1. **JDK *(Java Development Kit)*** adalah sebuah software yang biasa digunakan untuk membuat
+   aplikasi Java. Salah satu fungsi JDK yaitu untuk melakukan compiling baris kode yang telah kita tulis untuk dijalankan. Adapun fungsi lain JDK selain compiler diantaranya :
 
     - Interpreter / loader
     - Archiver
     - Documentation generator
     - DLL
 
-2. JRE *(Java Runtime Environment)*
-    Adalah sebuah software yang digunakan untuk menjalankan aplikasi berbasis Java. Dengan JRE kalian bisa menjalankan aplikasi berbasis Java tetapi tidak bisa membuat aplikasi berbasis Java.
+2. **JRE *(Java Runtime Environment)*** adalah sebuah software yang digunakan untuk menjalankan
+   aplikasi berbasis Java. Dengan JRE kalian bisa menjalankan aplikasi berbasis Java tetapi tidak bisa membuat aplikasi berbasis Java.
 
-3. JAVA SE *(Standar Edition)*
-    Adalah software dari Java yang sudah termasuk JDK dan JRE. Jadi Java SE sudah termasuk JDK dan JRE. Jika ingin menggunakan dan membuat aplikasi berbasis Java bisa install langsung Java SE karena didalamnya sudah termasuk JDK dan JRE.
+3. **JAVA SE *(Standar Edition)*** adalah software dari Java yang sudah termasuk JDK dan JRE. Jadi
+   Java SE sudah termasuk JDK dan JRE. Jika ingin menggunakan dan membuat aplikasi berbasis Java bisa install langsung Java SE karena didalamnya sudah termasuk JDK dan JRE.
 
-4. JVM *(Java Virtual Machine)*
-    Adalah machine abstract dengan spesifikasi tertentu yang menyediakan lingkungan untuk runtime untuk menjalankan bytecode dari Java (Apliksi yang dibuat dengan java). JVM tersedia untuk banyak platform hardwre maupun software. Bytecode Java (aplikasi Java) yang dikomplilasi oleh JDK bukan merupakan bytecode native yang langusung dapat dimengeri oleh OS, untuk itu JVM hadir sebagai *jubir* yang akan menjembantani antara OS dengan bytecode java.
+4. **JVM *(Java Virtual Machine)*** dalah machine abstract dengan spesifikasi tertentu yang
+   menyediakan lingkungan untuk runtime untuk menjalankan bytecode dari Java (Apliksi yang dibuat dengan java). JVM tersedia untuk banyak platform hardwre maupun software. Bytecode Java (aplikasi Java) yang dikomplilasi oleh JDK bukan merupakan bytecode native yang langusung dapat dimengeri oleh OS, untuk itu JVM hadir sebagai *jubir* yang akan menjembantani antara OS dengan bytecode java.
     JVM melakukan tugas-tugas utama sbb:
     - Membuka kode (Loads code)
     - Verifikasi kode
