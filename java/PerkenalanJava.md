@@ -1,4 +1,4 @@
-#Sejarah Singkat Java
+# Sejarah Singkat Java
 
 Java secara resmi diperkenalkan oleh SUN Microsystems pada dunia pada tanggal 23 Mei 1995. Sedangkan sejarah pembangunan java sendiri sudah dimulai sejak tahun 1991. Saat itu tim “ Stealth Project “ mengadakan pertemuan (brainstorming) untuk menciptakan suatu system software yang mampu berjalan pada alat-alat elektronik (small devices)
 
@@ -8,7 +8,7 @@ Kenyataan ini mungkin agak sedikit berbeda dengan ide pembuatan java pada awalny
 
 Saat ini Java dibagi menjadi 3 framework atau teknologi yaitu J2SE untuk pemograman aplikasi berbasis console dan desktop, kemudian J2EE berskala enterprise seperti aplikasi web-base (JSP dan Sevplet), komponen (EJB), web service dan lain-lain. Kemudian framework yang terakhir adalah J2ME untuk pemograman small device seperti handphone dan PDA.
 
-#Komponen-komponen Dalam Java
+# Komponen-komponen Dalam Java
 
 1. JDK *(Java Development Kit)* 
     Adalah sebuah software yang biasa digunakan untuk membuat aplikasi Java. Salah satu fungsi JDK yaitu untuk melakukan compiling baris kode yang telah kita tulis untuk dijalankan. Adapun fungsi lain JDK selain compiler diantaranya :
@@ -32,7 +32,7 @@ Saat ini Java dibagi menjadi 3 framework atau teknologi yaitu J2SE untuk pemogra
     - Mengeksekusi kode
     - Menyediakan runtime environment
 
-##Siklus Hidup Java
+# Siklus Hidup Java
 
 ![Java Lifecycle](https://grassroothoper.files.wordpress.com/2015/01/kedudukan-java.jpg)
 
