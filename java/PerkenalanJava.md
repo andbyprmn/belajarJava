@@ -2,7 +2,7 @@
 
 Java secara resmi diperkenalkan oleh SUN Microsystems pada dunia pada tanggal 23 Mei 1995. Sedangkan sejarah pembangunan java sendiri sudah dimulai sejak tahun 1991. Saat itu tim “ Stealth Project “ mengadakan pertemuan (brainstorming) untuk menciptakan suatu system software yang mampu berjalan pada alat-alat elektronik (small devices)
 
-James Gosling berkonsultasi pada ide permbuatan bahasa pemograman. Pada Juni 1991 , munculah bahasa interpreter “Oak” yang menjadi cikal bakal dari Java. Kemudian secara resmi pada tahun 1995 Java diperkenalkan bersama browser HotJava, Java pun merambah ke dunia Web-apps.
+James Gosling berkonsultasi pada ide pembuatan bahasa pemograman. Pada Juni 1991 , munculah bahasa interpreter “Oak” yang menjadi cikal bakal dari Java. Kemudian secara resmi pada tahun 1995 Java diperkenalkan bersama browser HotJava, Java pun merambah ke dunia Web-apps.
 
 Kenyataan ini mungkin agak sedikit berbeda dengan ide pembuatan java pada awalnya. Internet ternyata membantu membuat Java terkenal seperti sekarang ini. Memang harus diakui karena semakin berkembangnya Internet, maka focus pemrograman saat ini mengarah ke pemrograman Internet itu sendiri.
 
