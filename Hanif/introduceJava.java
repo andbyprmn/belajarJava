@@ -1,12 +1,15 @@
 class introduceJava{
 
     public static void main(String[] args) {
-        System.out.println("Introduce Java\n");
-        System.out.println("=========================================\n");
-        System.out.println("Nama      : Muhammad Hanif Ramadhan");
-        System.out.println("Jabatan   : Big Data / EAD  ");
-        System.out.println("Kelas     : Java\n");    
-        System.out.println("=========================================\n");
+
+        String java, isi, garis;
+
+        java = "Introduce Java";
+        garis = "=========================================";
+        isi = "Nama             : Muhammad Hanif Ramadhan\nJabatan          : Big Data / EAD\nKelas            : Java\nTanggal Lahir    : 32 Februari 2057\nTinggi           : 300 KG\nBerat            : 50 m";
+
+        System.out.println(java + "\n\n" + garis + "\n\n"+ isi + "\n\n" + garis);
+   
     }
 }
 

@@ -2,9 +2,17 @@ class HelloWorld{ //class
     
     public static void main(String args[]){ //method
 
-        System.out.println("Hello World!");
-        System.out.printf("Hello World!");
-        System.out.print("Hello World!");
+        //String helloworld;
+        //helloworld = "Hello World";
+
+        //System.out.println(helloworld);
+
+        String hello, world, celerates;
+        hello = "Hello";
+        world = "World";
+        celerates = "!";
+
+        System.out.println(hello + " " + world + celerates);
         
     }
 
