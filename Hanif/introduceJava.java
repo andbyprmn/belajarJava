@@ -9,3 +9,9 @@ class introduceJava{
         System.out.println("=========================================\n");
     }
 }
+
+/*
+    print -> Mencetak output tanpa enter setelah karakter terakhir
+    println -> Mencetak output dengan enter setelah karakter terakhir
+    printf -> Mencetak output dengan format tertentu mis: %d %s %f
+*/
