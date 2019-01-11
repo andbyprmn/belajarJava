@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - introduceJava",
+            "request": "launch",
+            "mainClass": "introduceJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cetak",
+            "request": "launch",
+            "mainClass": "cetak"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
