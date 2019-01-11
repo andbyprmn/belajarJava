@@ -4,7 +4,8 @@ Variabel adalah tempat menyimpan nilai sementara.
 Format variable dalam java :
 
 > ``` <tipe data> namaVariabel;```
-> ``` namaVariable = nilai```
+
+> ``` namaVariable = nilai;```
 
 Atau
 
