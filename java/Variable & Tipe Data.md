@@ -9,7 +9,7 @@ Format variable dalam java :
 
 Atau
 
-> ``` <tipe data> namaVariabel = nilai ```
+> ``` <tipe data> namaVariabel = nilai;```
 
 
 # Tipe Data
